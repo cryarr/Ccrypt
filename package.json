@@ -1,0 +1,23 @@
+{
+  "name": "ccrypt",
+  "version": "1.0.0",
+  "description": "ccrypt project",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryarr/Ccrypt.git"
+  },
+  "author": "ryan cryar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryarr/Ccrypt/issues"
+  },
+  "homepage": "https://github.com/cryarr/Ccrypt#readme",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
